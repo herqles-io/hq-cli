@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='hq-cli',
-    version='1.0',
+    version='1.0.0',
     url='',
     include_package_data=True,
     license='',
